@@ -1,5 +1,6 @@
 body,*{
     font-family: "Montserrat", sans-serif;
+    /* font-family: "Righteous", sans-serif; */
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
@@ -103,3 +104,10 @@ thead{
 #billSummary td ,#billSummary th{
  padding: 13px
 }
+
+.righteous-regular {
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
